@@ -18,14 +18,11 @@ This project analyzes healthcare accessibility across Kenya using GIS techniques
 Maps illustrating accessibility patterns and regional disparities in healthcare services.
 ## Maps
 
-### 5 km Healthcare Accessibility Buffer
+### 1. Health Facility Distribution in Kenya
+![Facility Distribution](maps/Healthcare_Accessibility_Kenya_Map1_Distribution.png)
 
-![Buffer Map](Map2_5km_Healthcare_Accessibility_Buffer.pdf)
+### 2. 5 km Healthcare Accessibility Buffer
+![Buffer Analysis](maps/Healthcare_Accessibility_Kenya_Map2_Buffer.png)
 
-### Health Facility Distribution Map
-
-![Facility Map](Map1_Distribution_of_Health_Facilities.pdf)
-
-### Facilities per County (Spatial Join Analysis)
-
-![County Map](Healthcare_Accessibility_Kenya_Map3_Counts.pdf)
+### 3. Facilities per County (Spatial Join Analysis)
+![County Analysis](maps/Healthcare_Accessibility_Kenya_Map3_Counts.png)
