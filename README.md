@@ -2,10 +2,6 @@
 
 I am a GIS Analyst based in Nairobi, Kenya, with experience in spatial analysis, mapping, and geospatial data visualization using ArcMap.
 
-This portfolio highlights my project on healthcare accessibility analysis, demonstrating my ability to apply GIS techniques to real-world problems.
-
-
-
 This project analyzes healthcare accessibility across Kenya using spatial analysis techniques.
 
 ### Key Tasks
